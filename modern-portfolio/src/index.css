@@ -1,0 +1,12 @@
+/* STREAMING_CHUNK: Importing Tailwind v4 */
+@import "tailwindcss";
+
+/* STREAMING_CHUNK: Resetting Vite's default constraints /
+/ This ensures the website spans the full width and height of the browser */
+html, body, #root {
+width: 100%;
+min-height: 100vh;
+margin: 0;
+padding: 0;
+text-align: left;
+}
